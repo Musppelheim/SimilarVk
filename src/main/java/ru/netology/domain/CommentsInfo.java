@@ -1,6 +1,6 @@
 package ru.netology.domain;
 
-public class CommentsService {
+public class CommentsInfo {
     private int count;
     private boolean canPost;
     private boolean groupsCanPost;
